@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">kotprogFinal</string>
+    <string name="login">Router config</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="belepesgomb">Belépés</string>
+    <string name="regisztraciogomb">Regisztráció</string>
+    <string name="regisztracio">Regisztráció</string>
+    <string name="emailaddress">E-mail cím</string>
+    <string name="passwordagain">Jelszó mégegyszer</string>
+    <string name="cancelgomb">Mégse, kilépés</string>
+    <string name="beallitasok">Beállítások</string>
+    <string name="routeripaddress">Router IP címe</string>
+    <string name="netmask">Router netmaszkja</string>
+    <string name="save">Mentés</string>
+    <string name="maxhosts">Eszközök maximális száma a routeren</string>
+</resources>
